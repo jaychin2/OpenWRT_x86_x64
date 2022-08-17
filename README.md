@@ -11,7 +11,7 @@
 
 如果升级失败，可通过系统→备份/升级→刷写新的固件
 
-# [赏个鸡腿吧](https://afdian.net/@dhdaxcw/plan)
+# [赏个鸡腿吧]
 ### https://afdian.net/@dhdaxcw/plan
 ## 鸣谢
 
